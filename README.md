@@ -1,2 +1,2 @@
 # python-test
-Learning pythong with https://automatetheboringstuff.com 
+Learning python with https://automatetheboringstuff.com 
