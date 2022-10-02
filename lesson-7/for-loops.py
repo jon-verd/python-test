@@ -10,7 +10,7 @@
 #     i = i + 1
 
 total = 0 
-for num in range (5,-1,-1) :
+for num in range (101) :
     total = total + num
 print(total)
 
