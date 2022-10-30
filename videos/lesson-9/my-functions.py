@@ -12,3 +12,4 @@ def hello(name):
 
 hello('banana')
 hello('bob')
+hello('testing')
