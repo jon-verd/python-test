@@ -8,10 +8,10 @@
 
 # We will be using pyperclip to copy our clipboard
 import pyperclip
-myText[0] = pyperclip.paste
+myText = pyperclip.paste
 # pyperclip.copy(myText)
 # after importing our text, we will split the text where a new line begins, denoted by '\n'.
-lines = myText[0].split('\n')
+lines = myText.split('\n')
 for i in range(len(lines)):
     lines[i] = '* '+ lines[1]
 pyperclip.copy(my.Text)
